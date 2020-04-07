@@ -1,0 +1,4 @@
+clutter
+*.swp
+out*
+.ipynb_checkpoints/
